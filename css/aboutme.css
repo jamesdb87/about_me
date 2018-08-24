@@ -1,0 +1,23 @@
+h1{
+  color: rgb(223, 107, 12)
+}
+
+#box {
+  background-image: url("https://i1.wp.com/www.samwoolfe.com/wp-content/uploads/2017/12/the-space-between-jonathan-solter-1600x1045-1.jpg?fit=1440%2C0&ssl=1")
+}
+
+#mind {
+  width: 100%;
+  background-color: rgba(128, 128, 128, 0.61);
+}
+
+#heart {
+  width: 100%;
+  background-color: rgba(231, 38, 215, 0.719);
+}
+
+#links {
+  width: 100%;
+  background-color: rgba(182, 65, 206, 0.61);
+}
+
